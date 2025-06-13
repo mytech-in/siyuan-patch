@@ -1,17 +1,17 @@
 # siyuan patch [思源笔记](https://github.com/siyuan-note/siyuan)本地VIP
 
-## 修改了哪些内容
+## Modified Content
+1.Local VIP (official feature), can be used
+    Third-party S3 data synchronization and backup
+    Third-party WebDAV data synchronization and backup (not supported by Nutstore)
+    Search resource file content
+    Export PDF/image Add watermark
+2.Disable automatic download and update installation package
+3.Default off Google Analytics
+4.Default off Automatically upload error information and diagnostic data
+5.Default off Display title in top bar Display VIP in top bar
+6.Enabled by default Click the close button and shrink to tray
 
-1. 本地VIP(即官方的 [`功能特性`](https://b3log.org/siyuan/pricing.html)), 可以使用
-    - `第三方 S3 数据同步和备份`
-    - `第三方 WebDAV 数据同步和备份（不支持坚果云）`
-    - `搜索资源文件内容`
-    - `导出 PDF/图片 添加水印`
-2. **禁用** `自动下载更新安装包`
-3. 默认关闭 `Google Analytics`
-4. 默认关闭 `自动上传报错信息和诊断数据`
-5. 默认关闭 `顶栏显示头衔` `顶栏显示 VIP`
-6. 默认*开启* `点击关闭按钮后缩小到托盘中`
 
 ## 如何下载 客户端(Windows / Mac / Linux / Android)
 
